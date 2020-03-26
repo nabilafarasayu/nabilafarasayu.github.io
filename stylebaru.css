@@ -1,0 +1,20 @@
+body{ background-color: #b3d9ff}
+body{border-style: inset}
+body{margin : auto }
+body{width: 600px}
+body{height: 1000px}
+body{ border : 3px round #1f7a7a}
+body{padding-left: 15px} 
+body{padding-right: 15px}
+body{font-family:  Georgia}
+h1{background-color: #e6f2ff}
+h1{color: navy}
+h1{text-align: center}
+h2{text-align: center;}
+h2{color: navy}
+h3 {color: navy ; text-align: center;}
+h4 {color: #e6fffa ; text-align: center }
+p{text-align: justify;}
+img{border-radius: 1500px}
+img{border : 2px ridge navy}
+img{margin-left: 130px}
